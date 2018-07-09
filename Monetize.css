@@ -1,0 +1,42 @@
+.Monetize.moneySpace {
+	background: none;
+}
+
+.Monetize.moneySpace .Monetize.coin {
+	background: url("resources/monetize.png") no-repeat;
+	position:absolute;
+	bottom:0;
+}
+.Monetize.moneySpace .Monetize.coin-thousand {
+	background-position: 0px 0px; 
+	width: 66px;
+	height: 54px;
+}
+.Monetize.moneySpace .Monetize.coin-hundred {
+	background-position: -66px 0px; 
+	width: 56px;
+	height: 48px;
+}
+.Monetize.moneySpace .Monetize.coin-ten {
+	background-position: -122px 0px; 
+	width: 46px;
+	height: 40px;
+}
+.Monetize.moneySpace .Monetize.coin-one {
+	background-position: -168px 0px; 
+	width: 20px;
+	height: 16px;
+}
+.Monetize.moneySpace .Monetize.coin-oneTenth {
+	background-position: -168px -16px; 
+	width: 11px;
+	height: 10px;
+}
+.Monetize.moneySpace .Monetize.coin-oneHundredth {
+	background-position: -168px -26px; 
+	width: 10px;
+	height: 8px;
+}
+
+
+

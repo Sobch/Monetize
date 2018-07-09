@@ -1,0 +1,32 @@
+body {
+	background: url("resources/background.jpg");
+}
+
+.container {
+	position:absolute;
+	top:50%;
+	left:50%;
+	width:500px;
+	height:100px;
+	margin-left:-250px;
+	margin-top:-50px;
+}
+
+.Monetize.moneySpace {
+	width:500px;
+	height:100px;
+}
+
+#moneyValue{
+	background: rgba(0,0,0,0.2);
+	border:none;
+	border-radius:5px;
+	padding:5px;
+	margin-top:10px;
+	color:#fff;
+	width:100px;
+}
+
+
+
+
