@@ -5,7 +5,7 @@ Monetize is a simple javascript and typescript that shows some money value graph
 ### Installation
  - include **Monetize.css** and **Monetize.js** files in your project,
  - insert into your project div with both **Monetize** and **moneySpace** classes, div should be 500px wide and 100px tall to draw coins properly,
- - call Monetize **redraw()** method when document ready to draw coins in your div element:
+ - call Monetize **redraw()** method when document ready to draw coins in your moneySpace element:
 *Monetize.redraw(moneySpaceElement: HTMLElement, value: number)*
 - To enable animation, jQuery need to be included in the project. 
 
