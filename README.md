@@ -2,6 +2,8 @@
 
 Monetize is a simple javascript and typescript that shows some money value graphically as single coins. Currently Monetize shows value as PLN. 
 
+##### Demo: *sobczak.cc/monetize*
+
 ### Installation
  - include **Monetize.css** and **Monetize.js** files in your project,
  - insert into your project div with both **Monetize** and **moneySpace** classes, div should be 500px wide and 100px tall to draw coins properly,
