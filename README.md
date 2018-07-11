@@ -2,7 +2,7 @@
 
 Monetize is a simple javascript and typescript that shows some money value graphically as single coins. Currently Monetize shows value as PLN. 
 
-##### Demo: [sobczak.cc/monetize]
+##### Demo: [sobczak.cc/monetize](http://sobczak.cc/monetize/)
 
 ### Installation
  - include **Monetize.css** and **Monetize.js** files in your project,
@@ -16,6 +16,3 @@ Monetize is a simple javascript and typescript that shows some money value graph
 ### Configuration
 
 Edit monetize.ts (need to recompile) or monetize.js to configure Monetize. MonetizeSettings class contains all the configuration.
-
-[//]: 
-   [sobczak.cc/monetize]: <http://sobczak.cc/monetize>
